@@ -33,7 +33,8 @@ recommendations:
 
 **jwm-materia**
 
-(coming soon). materia theme port.
+materia theme port.
+![sample](/jwm-materia/sample.png)
 - cursor theme = oreo cursor
 - gtk theme = materia light/dark
 - icon theme = papirus/light/dark
