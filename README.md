@@ -12,7 +12,8 @@ https://joewing.net/projects/jwm/
 
 **why jwm ?**
 
-because it is lightweight and modular. a basic jwm runs on average 15mb or less. further example of my hyperbola gnu linux desktop with transparent jwm vizta theme and basic multimedia usage takes ~200mb ram / ~300mb ram (with cache). 
+because it is lightweight and modular. a basic jwm runs on average 15mb or less. here an example of my hyperbola gnu linux desktop with transparent jwm vizta theme and basic multimedia usage takes ~200mb ram / ~300mb ram (with cache).
+
 ![sample](/jwm-vizta/jwm-ram-usage.png)
 
 **usage of this repository**
@@ -25,20 +26,27 @@ you can import theme files with jwmkit or inspenct the reference inside the them
 
 fancy aero glass lite theme.
 ![sample](/jwm-vizta/sample.png)
+recommendations:
+cursor theme= adwaita
 gtk theme = adwaita
 icon theme = lxde icon theme/nuoveXT.2.2
 
 **jwm-materia**
 
 (coming soon). materia theme port.
+cursor theme = oreo cursor
 gtk theme = materia light/dark
 icon theme = papirus/light/dark
 
 **jwm-arc**
 
-(coming soon). arc theme port
-gtk theme = arc/light/lighter/dark/darker
+arc theme port.
+![sample](/jwm-arc/sample.png)
+recommendations:
+cursor theme = capitaine cursor
+gtk theme = arc/lighter/dark/darker
 icon theme = arc icon theme + moka icon theme + faba icon theme
+alterative icon = mint y (colors)
 
 **jwm-fe**
 
