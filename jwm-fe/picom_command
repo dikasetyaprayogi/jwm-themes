@@ -1,0 +1,2 @@
+picom -i 1.0 -e 1.0 -m 1.0 -r 25 -l -25 -t -20 -o 0.5 --shadow-red 0.3 --shadow-green 0.3 --shadow-blue 0.3
+

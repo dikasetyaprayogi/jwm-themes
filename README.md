@@ -27,26 +27,26 @@ you can import theme files with jwmkit or inspenct the reference inside the them
 fancy aero glass lite theme.
 ![sample](/jwm-vizta/sample.png)
 recommendations:
-cursor theme= adwaita
-gtk theme = adwaita
-icon theme = lxde icon theme/nuoveXT.2.2
+- cursor theme= adwaita
+- gtk theme = adwaita
+- icon theme = lxde icon theme/nuoveXT.2.2
 
 **jwm-materia**
 
 (coming soon). materia theme port.
-cursor theme = oreo cursor
-gtk theme = materia light/dark
-icon theme = papirus/light/dark
+- cursor theme = oreo cursor
+- gtk theme = materia light/dark
+- icon theme = papirus/light/dark
 
 **jwm-arc**
 
 arc theme port.
 ![sample](/jwm-arc/sample.png)
 recommendations:
-cursor theme = capitaine cursor
-gtk theme = arc/lighter/dark/darker
-icon theme = arc icon theme + moka icon theme + faba icon theme
-alterative icon = mint y (colors)
+- cursor theme = capitaine cursor
+- gtk theme = arc/lighter/dark/darker
+- icon theme = arc icon theme + moka icon theme + faba icon theme
+- alterative icon = mint y (colors)
 
 **jwm-fe**
 
