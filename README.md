@@ -7,8 +7,8 @@ you are free and encouraged to reuse & sharing.
 
 **what is jwm ?**
 
-JWM (Joe's window manager) is a lightweight window manager for the X11 Window System.
-https://joewing.net/projects/jwm/
+[JWM(https://joewing.net/projects/jwm/) (Joe's window manager) is a lightweight window manager for the X11 Window System.
+
 
 **why jwm ?**
 
@@ -54,4 +54,4 @@ recommendations:
 ![sample](/jwm-fe/sample.png)
 
 **other recommendation**
-jwmkit's theme collection: https://codeberg.org/JWMKit/JWM_Kit/wiki/themes
+[jwmkit's theme collection](https://codeberg.org/JWMKit/JWM_Kit/wiki/themes)

@@ -1,0 +1,56 @@
+<?xml version="1.0"?> <!-- Designed to integrate with the Adwaita-dark Gtk theme -->
+<JWM>
+    <WindowStyle>
+        <Font>Sans-10:Bold</Font>
+        <Width>1</Width>
+        <Height>26</Height>
+        <Corner>5</Corner>
+        <Opacity>1.0</Opacity>
+        <Foreground>#aeaeae</Foreground>
+        <Background>#1e1e1e</Background>
+        <Outline>#2e2e2e</Outline>
+        <Active>
+            <Foreground>#e2e2e2</Foreground>
+            <Background>#272727</Background>
+            <Outline>#2e2e2e</Outline>
+        </Active>
+    </WindowStyle>
+	<TrayStyle group="false" list="desktop">
+		<Font>Roboto Condensed-11</Font>
+		<Background>#1e1e1e</Background>
+		<Foreground>#e2e2e2</Foreground>
+		<Outline>#424242</Outline>
+		<Active>
+			<Background>#d1d1d1</Background>
+			<Foreground>#424242</Foreground>
+		</Active>
+	</TrayStyle>
+
+        <PagerStyle>
+                <Outline>#444444</Outline>
+                <Foreground>#ececec</Foreground>
+                <Background>#303030</Background>
+                <Text>#ACABAB</Text>
+                <Active>
+                        <Foreground>#ebebeb</Foreground>
+                        <Background>#d1d1d1</Background>
+                </Active>
+        </PagerStyle>
+
+	<MenuStyle>
+		<Font>Roboto Condensed-11</Font>
+		<Foreground>#aeaeae</Foreground>
+		<Background>#1e1e1e</Background>
+		<Outline>#2e2e2e</Outline>
+		<Active>
+			<Background>#272727</Background>
+			<Foreground>#e2e2e2</Foreground>
+		</Active>
+	</MenuStyle>
+	<PopupStyle>
+		<Font>Roboto Condensed-11</Font>
+		<Foreground>#aeaeae</Foreground>
+		<Background>#303030</Background>
+		<Outline>#2e2e2e</Outline>
+	</PopupStyle>
+</JWM>
