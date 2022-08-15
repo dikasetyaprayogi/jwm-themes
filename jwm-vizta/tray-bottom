@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<JWM>
+   <Tray height="34" x="0" y="-1">
+      <TrayButton icon="/home/hyper/showdesktop2.svg">
+         <Button mask="1">root:1</Button>
+         <Button mask="3">root:j</Button>
+      </TrayButton>
+      <Spacer width="1" />
+      <TrayButton icon="/usr/share/pixmaps/jwmkit/showdesktop.svg" popup="Show Desktop">showdesktop</TrayButton>
+      <Spacer width="5" />
+      <TaskList maxwidth="256" />
+      <Spacer width="5" />
+      <Pager />
+      <Dock />
+      <Clock format="%l:%M %p">exec:jwmkit_calendar</Clock>
+   </Tray>
+</JWM>

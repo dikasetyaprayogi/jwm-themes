@@ -1,0 +1,55 @@
+<?xml version="1.0"?> <!-- Designed to integrate with the Adwaita-dark Gtk theme -->
+<JWM>
+    <WindowStyle>
+        <Font>Sans-10:Bold</Font>
+        <Width>7</Width>
+        <Height>34</Height>
+        <Corner>5</Corner>
+        <Opacity>1.0</Opacity>
+        <Foreground>#FFFFFF</Foreground>
+        <Background>#000000:#343434</Background>
+        <Outline>#5B5B5D</Outline>
+        <Active>
+            <Foreground>#FFFFFF</Foreground>
+            <Background>#000000:#343434</Background>
+            <Outline>#5B5B5D</Outline>
+        </Active>
+    </WindowStyle>
+    <TrayStyle group="false" list="desktop">
+        <Opacity>0.8</Opacity>
+        <Font>Sans-10</Font>
+        <Outline>#5B5B5D</Outline>
+        <Foreground>#FFFFFF</Foreground>
+        <Background>#000000:#343434</Background>
+        <Active>       
+            <Outline>#5B5B5D</Outline>
+            <Foreground>#FFFFFF</Foreground>
+            <Background>#343434:#000000</Background>
+        </Active>
+    </TrayStyle>
+    <PagerStyle>
+        <Outline>#000000</Outline>
+        <Foreground>#FFFFFF</Foreground>
+        <Background>#000000</Background>
+        <Text>#ACABAB</Text>
+        <Active>
+            <Foreground>#FFFFFF</Foreground>
+            <Background>#5B5B5D</Background>
+        </Active>
+    </PagerStyle>
+    <MenuStyle>
+        <Font>Sans-13</Font>
+            <Foreground>#323232</Foreground>
+            <Background>#FCFCFC</Background>
+        <Outline>#CDC7C2</Outline>
+        <Active>
+            <Foreground>#FCFCFC</Foreground>
+            <Background>#3584E4</Background>
+        </Active>
+    </MenuStyle>
+    <PopupStyle>
+        <Font>Sans-12</Font>
+            <Foreground>#ACAFC6</Foreground>
+            <Background>#343434</Background>
+    </PopupStyle>
+</JWM>
