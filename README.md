@@ -5,40 +5,45 @@ you are free and encouraged to reuse & sharing.
 
 *hope you enjoy it (-_-)b*
 
-## what is jwm ?**
+**what is jwm ?**
 
 JWM (Joe's window manager) is a lightweight window manager for the X11 Window System.
 https://joewing.net/projects/jwm/
 
-## why use jwm ?**
+**why jwm ?**
 
-because it is lightweight and modular. a basic jwm windowing system would take 15mb or less.
-an example my jwm vizta theme with transparency and basic multimedia usage takes ~200mb ram / ~300mb ram (with cache). 
+because it is lightweight and modular. a basic jwm runs on average 15mb or less. further example of my hyperbola gnu linux desktop with transparent jwm vizta theme and basic multimedia usage takes ~200mb ram / ~300mb ram (with cache). 
 ![sample](/jwm-vizta/jwm-ram-usage.png)
 
-## usage of this repository
+**usage of this repository**
 
 you can import theme files with jwmkit or inspenct the reference inside the theme and integrate into your jwm config yourself. you might use gpick to recustomize color easily. you also need picom for transparency and shadow effect.
 
 # Gallery
 
-## jwm-vizta
+**jwm-vizta**
 
 fancy aero glass lite theme.
 ![sample](/jwm-vizta/sample.png)
+gtk theme = adwaita
+icon theme = lxde icon theme/nuoveXT.2.2
 
-## jwm-materia
+**jwm-materia**
 
-(coming soon). materia theme port
+(coming soon). materia theme port.
+gtk theme = materia light/dark
+icon theme = papirus/light/dark
 
-## jwm-arc
+**jwm-arc**
 
 (coming soon). arc theme port
+gtk theme = arc/light/lighter/dark/darker
+icon theme = arc icon theme + moka icon theme + faba icon theme
 
-## jwm-fe
+**jwm-fe**
 
 (coming soon). jwm fe (freedom experience) is a jwm theme with emphasis on joyful blue hues.
 ![sample](/jwm-fe/sample.png)
 
-# other recommendation
-jwmkit's themes: https://codeberg.org/JWMKit/JWM_Kit/wiki/themes
+**other recommendation**
+jwmkit's theme collection: https://codeberg.org/JWMKit/JWM_Kit/wiki/themes
