@@ -27,15 +27,16 @@ you can import theme files with jwmkit or inspenct the reference inside the them
 fancy aero glass lite theme.
 ![sample](/jwm-vizta/sample.png)
 
-**jwm-materia**
-
-materia theme port.
-![sample](/jwm-materia/sample.png)
-
 **jwm-arc**
 
 arc theme port.
 ![sample](/jwm-arc/sample.png)
 
+**jwm-materia**
+
+materia theme port.
+![sample](/jwm-materia/sample.png)
+
 **other recommendation**
+
 [jwmkit's theme collection](https://codeberg.org/JWMKit/JWM_Kit/wiki/themes)
