@@ -7,7 +7,7 @@ you are free and encouraged to reuse & sharing.
 
 **what is jwm ?**
 
-[JWM(https://joewing.net/projects/jwm/) (Joe's window manager) is a lightweight window manager for the X11 Window System.
+[JWM](https://joewing.net/projects/jwm/) (Joe's window manager) is a lightweight window manager for the X11 Window System.
 
 
 **why jwm ?**
@@ -26,34 +26,16 @@ you can import theme files with jwmkit or inspenct the reference inside the them
 
 fancy aero glass lite theme.
 ![sample](/jwm-vizta/sample.png)
-recommendations:
-- cursor theme= adwaita
-- gtk theme = adwaita
-- icon theme = lxde icon theme/nuoveXT.2.2
 
 **jwm-materia**
 
 materia theme port.
 ![sample](/jwm-materia/sample.png)
-recommendations:
-- cursor theme = oreo cursor
-- gtk theme = materia light/dark
-- icon theme = papirus/light/dark
 
 **jwm-arc**
 
 arc theme port.
 ![sample](/jwm-arc/sample.png)
-recommendations:
-- cursor theme = capitaine cursor
-- gtk theme = arc/lighter/dark/darker
-- icon theme = arc icon theme + moka icon theme + faba icon theme
-- alterative icon = mint y (colors)
-
-**jwm-fe**
-
-(coming soon). jwm fe (freedom experience) is a jwm theme with emphasis on joyful blue hues.
-![sample](/jwm-fe/sample.png)
 
 **other recommendation**
 [jwmkit's theme collection](https://codeberg.org/JWMKit/JWM_Kit/wiki/themes)
