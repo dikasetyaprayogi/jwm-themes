@@ -37,6 +37,11 @@ arc theme port.
 materia theme port.
 ![sample](/jwm-materia/sample.png)
 
+**jwm-hydrogen**
+
+coming soon..
+![sample](/jwm-hydrogen/sample.png)
+
 **other recommendation**
 
 [jwmkit's theme collection](https://codeberg.org/JWMKit/JWM_Kit/wiki/themes)
